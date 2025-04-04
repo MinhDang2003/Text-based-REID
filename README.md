@@ -35,7 +35,7 @@ TBPReid-datasets/
 ```
 # [CUHK-PEDES](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)
 <p align="center">
-  <img src="CUHK_PEDES/image.jpg" alt="High-frequency words and person images in CUHK-PEDES dataset">
+  <img src="asset/CUHK_PEDES/image.jpg" alt="High-frequency words and person images in CUHK-PEDES dataset">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ TBPReid-datasets/
 </p>
 
 <p align="center">
-  <img src="CUHK_PEDES/CUHK_PEDES.jpg" alt="Examples in CUHK-PEDES dataset">
+  <img src="asset/CUHK_PEDES/CUHK_PEDES.jpg" alt="Examples in CUHK-PEDES dataset">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ The **CUHK-PEDES** dataset is a caption-annotated pedestrian dataset. It contain
 
 # [ICFG-PEDES](https://github.com/zifyloo/SSAN)
 <p align="center">
-  <img src="ICFG_PEDES/ICFG-PEDES.png" alt="Examples in ICFG-PEDES dataset">
+  <img src="asset/ICFG_PEDES/ICFG-PEDES.png" alt="Examples in ICFG-PEDES dataset">
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Compared with existing databases, **ICFG-PEDES** (Identity-Centric and Fine-Grai
 
 # [RSTPReID](https://github.com/NjtechCVLab/RSTPReid-Dataset)
 <p align="center">
-  <img src="RSTPReID/MM2021Dataset.png" alt="High-frequency words and person images in RSTPReID dataset">
+  <img src="asset/RSTPReID/MM2021Dataset.png" alt="High-frequency words and person images in RSTPReID dataset">
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ Compared with existing databases, **ICFG-PEDES** (Identity-Centric and Fine-Grai
 </p>
 
 <p align="center">
-  <img src="RSTPReID/RSTPReID.png" alt="Examples in RSTPReID dataset">
+  <img src="asset/RSTPReID/RSTPReID.png" alt="Examples in RSTPReID dataset">
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Compared with existing databases, **ICFG-PEDES** (Identity-Centric and Fine-Grai
 # PRETRAIN
 
 <p align="center">
-  <img src="PRETRAIN/img.jpg" alt="High-frequency words and person images in PRETRAIN dataset">
+  <img src="asset/PRETRAIN/img.jpg" alt="High-frequency words and person images in PRETRAIN dataset">
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ Compared with existing databases, **ICFG-PEDES** (Identity-Centric and Fine-Grai
 </p>
 
 <p align="center">
-  <img src="PRETRAIN/PRETRAIN.png" alt="Examples in PRETRAIN dataset">
+  <img src="asset/PRETRAIN/PRETRAIN.png" alt="Examples in PRETRAIN dataset">
 </p>
 
 <p align="center">
