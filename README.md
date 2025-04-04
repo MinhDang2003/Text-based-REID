@@ -17,9 +17,6 @@ The **TBPReid-datasets** directory consist of Text-based Person ReID datasets: [
 TBPReid-datasets/
 │-- CUHK-PEDES/    
     |-- imgs
-        |-- cam_a
-        |-- cam_b
-        |-- ... 
     |-- reid_raw.json     
     |-- README.md
 |-- ICFG-PEDES/ #Coming soon
